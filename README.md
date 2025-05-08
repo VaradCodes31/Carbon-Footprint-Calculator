@@ -8,7 +8,7 @@ This repository contains a modern, interactive **Carbon Footprint Calculator** t
 
 ## 🚀 Live Demo
 
-👉 [Calculate Your Carbon Footprint Now](https://culate-carbon-footprint.netlify.app)
+👉 [Calculate Your Carbon Footprint Now](https://calculate-carbon-footprint.netlify.app)
 
 ---
 
@@ -138,18 +138,6 @@ npm run build
 dist
 ```
 
----
-
-## 📈 Upcoming Features
-
-* [ ] Store and compare multiple footprints
-* [ ] Add charts/graphs using Chart.js or Recharts
-* [ ] Mobile PWA support
-* [ ] Internationalization (i18n)
-* [ ] Dark mode toggle
-
----
-
 ## 🙌 Acknowledgments
 
 * [React](https://reactjs.org/)
@@ -165,7 +153,4 @@ dist
 
 > 💬 Contributions, stars, and feedback are welcome!
 
-```
-
-Let me know if you want me to create sample screenshots or badges (like Netlify status, license, or GitHub stars).
 ```
