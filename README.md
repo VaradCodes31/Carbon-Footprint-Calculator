@@ -59,10 +59,6 @@ The calculator uses **emission factors** based on globally accepted environmenta
 
 ![alt text](CFC_Ss.jpg)
 
-| Input Form | Results Page |
-|------------|--------------|
-| ![Form](./screenshots/form.png) | ![Results](./screenshots/results.png) |
-
 ---
 
 ## 📁 Project Structure
