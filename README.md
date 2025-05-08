@@ -152,5 +152,3 @@ dist
 ---
 
 > 💬 Contributions, stars, and feedback are welcome!
-
-```
